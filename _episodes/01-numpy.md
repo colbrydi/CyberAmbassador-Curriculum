@@ -1,5 +1,5 @@
 ---
-title: Analyzing Patient Data
+title: Lesson 01 testing
 teaching: 60
 exercises: 30
 questions:
