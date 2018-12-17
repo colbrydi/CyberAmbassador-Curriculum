@@ -3,37 +3,16 @@ title: Testing Lesson
 teaching: 80
 exercises: 50
 questions:
-- "How can I process tabular data files in Python?"
-objectives:
-- "Explain what a library is and what libraries are used for."
-- "Import a Python library and use the functions it contains."
-- "Read tabular data from a file into a program."
-- "Assign values to variables."
-- "Select individual values and subsections from data."
-- "Perform operations on arrays of data."
-- "Plot simple graphs from data."
+- "What are some ways to communicate with someone in a different field as you?"
 keypoints:
-- "Import a library into a program using `import libraryname`."
-- "Use the `numpy` library to work with arrays in Python."
-- "Use `variable = value` to assign a value to a variable in order to record it in memory."
-- "Variables are created on demand whenever a value is assigned to them."
-- "Use `print(something)` to display the value of `something`."
-- "The expression `array.shape` gives the shape of an array."
-- "Use `array[x, y]` to select a single element from a 2D array."
-- "Array indices start at 0, not 1."
-- "Use `low:high` to specify a `slice` that includes the indices from `low` to `high-1`."
-- "All the indexing and slicing that works on arrays also works on strings."
-- "Use `# some kind of explanation` to add comments to programs."
-- "Use `numpy.mean(array)`, `numpy.max(array)`, and `numpy.min(array)` to calculate simple statistics."
-- "Use `numpy.mean(array, axis=0)` or `numpy.mean(array, axis=1)` to calculate statistics across the specified axis."
-- "Use the `pyplot` library from `matplotlib` for creating simple visualizations."
+- "Communicating with people in different professions can be difficult." 
 ---
 
-In this episode we will learn how to work with arthritis inflammation datasets in Python. However,
-before we discuss how to deal with many data points, let's learn how to work with
-single data values.
+We will learn to communicate effectively with other professions.
 
-## Variables
+## Part 1
+
+Everything under this line will be edited out. Also, every episode will removed/edited to fit our CyberAmbassador site.
 
 Any Python interpreter can be used as a calculator:
 ~~~
