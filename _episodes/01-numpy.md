@@ -1,7 +1,7 @@
 ---
 title: Testing Lesson
-teaching: 60
-exercises: 30
+teaching: 80
+exercises: 50
 questions:
 - "How can I process tabular data files in Python?"
 objectives:
