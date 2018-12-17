@@ -1,5 +1,5 @@
 ---
-title: Lesson 01 testing
+title: Testing Lesson
 teaching: 60
 exercises: 30
 questions:
