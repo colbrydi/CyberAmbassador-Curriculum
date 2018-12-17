@@ -1,10 +1,7 @@
-# Programming with Python
+# CyberAmbassadors Content Management System
 
-[![GitHub release][shields_release]][swc_py_releases]
-[![Create a Slack Account with us][create_slack_svg]][slack_heroky_invite]
-[![Slack Status][slack_channel_status]][slack_channel_url]
 
-An introduction to Python for non-programmers using inflammation data.
+This Repository is used for CyberAmbassadors content.
 
 ## About the Lesson
 
