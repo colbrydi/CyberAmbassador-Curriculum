@@ -8,10 +8,5 @@ This is an introduction for the CyberAmbassadors Content Management Site. This w
 ### Cyber Ambassadors Training
 CyberAmbassadors Training involves training CI's in communication and professional skills so that can be capable of effectively communicate and work with a team.
 
-
-> ## Prerequisites
-> There are no prereqs for this training. Just be prepared to work in a group/team.
->{: .prereq}
-
 ### Getting Started
 There should be no need for a setup.
