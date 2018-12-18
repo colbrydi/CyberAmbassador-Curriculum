@@ -1,5 +1,6 @@
 ---
 title: Testing Lesson
+start: true
 teaching: 80
 exercises: 50
 questions:
