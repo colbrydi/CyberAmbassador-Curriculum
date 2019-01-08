@@ -12,6 +12,5 @@ keypoints:
 
 ## Part 1
 
-{% include navbar.html %}
 
 {% include links.md %}
