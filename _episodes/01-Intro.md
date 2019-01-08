@@ -1,8 +1,5 @@
 ---
 title: Welcome/Introductions
-start: true
-teaching: 80
-exercises: 50
 questions:
 - "What are some ways to communicate with someone in a different field as you?"
 objectives:
