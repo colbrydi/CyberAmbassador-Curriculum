@@ -2,7 +2,7 @@
 title: Welcome/Introductions
 questions:
 - "What is a CyberAmbassador?"
-- "Why are we doing this training?"
+- "What is the purpose of this training?"
 objectives:
 - "Understand who and what the CyberAmbassador's are."
 keypoints:
