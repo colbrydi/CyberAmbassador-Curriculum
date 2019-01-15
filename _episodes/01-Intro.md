@@ -1,11 +1,12 @@
 ---
 title: Welcome/Introductions
 questions:
-- "What are some ways to communicate with someone in a different field as you?"
+- "What is a CyberAmbassador?"
+- "Why are we doing this training?"
 objectives:
-- "Learn about jargon and how to ask about it"
+- "Understand who and what the CyberAmbassador's are."
 keypoints:
-- "Communicating with people in different professions can be difficult."
+- "CyberAmbassador's main goal is to provide professional skills to cyber infrastructure(CI) professionals. "
 ---
 
 
