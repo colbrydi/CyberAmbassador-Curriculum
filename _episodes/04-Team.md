@@ -3,16 +3,18 @@ title: Team Interactions
 teaching: 80
 exercises: 50
 questions:
-- "What are some ways to communicate with someone in a different field as you?"
+- "How does one interact in a team?"
 objectives:
-- "Learn about jargon and how to ask about it"
+- "Effectively work on a team.
 keypoints:
-- "Communicating with people in different professions can be difficult."
+- "Main points of working on teams."
 ---
 
 
 
-## Part 1
+## Classic Team Model
+Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384-399. http://dx.doi.org/10.1037/h0022100
+![Classic Team Model](/fig/team_work.png)
 
 
 {% include links.md %}
