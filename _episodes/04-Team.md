@@ -11,7 +11,7 @@ keypoints:
 ---
 
 ## Classic Team Model
-Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384-399. [Psychological Bulletin](http://dx.doi.org/10.1037/h0022100)
+Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384-399. [http://dx.doi.org/10.1037/h0022100](http://dx.doi.org/10.1037/h0022100)
 
 ![Classic Team Model](//nguyentj.github.io/CyberAmbassadors-CMS/fig/team_work.png)
 
