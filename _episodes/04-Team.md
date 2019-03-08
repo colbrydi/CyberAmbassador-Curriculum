@@ -5,7 +5,7 @@ exercises: 50
 questions:
 - "How does one interact in a team?"
 objectives:
-- "Effectively work on a team.
+- "Effectively work on a team."
 keypoints:
 - "Main points of working on teams."
 ---
