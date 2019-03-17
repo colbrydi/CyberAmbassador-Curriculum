@@ -1,6 +1,6 @@
 ---
 title: First Contact
-start: True
+start: true
 teaching: 10
 exercises: 10
 questions:
@@ -14,7 +14,6 @@ objectives:
 keypoints:
 - "Main points of working on teams."
 ---
-
 ## First Contact
 # Communicating with Purpose in New Situations
 
