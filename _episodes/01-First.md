@@ -58,8 +58,29 @@ Write three statements about yourself
 - Two should be true
 - One should be false but possible
 - All should say something about you
+
 These will be shared
-- Do not embarass yourself of anyone else!
+- Do not embarrass yourself of anyone else!
+
+## First Contact: Networking
+
+# Why is Networking Difficult?
+- Schopenhauer’s Dilemma (the Porcupine Problem)
+  - Porcupines huddle together for warmth, but move apart because their quills are sharp
+  - Likewise, humans need community, but we also crave independence
+
+  ![Conflict Graph](//nguyentj.github.io/CyberAmbassadors-CMS/fig/network.PNG)
+
+# Independence vs. involvement
+- Individual variations
+  - Extroverted vs. introverted
+  - Levels of experience and expertise
+  - Language(s) and discipline(s)
+- Cultural and societal variations
+  - Power structures
+  - Values and memes (cultural “genes”)
+  - Perceptions of race, religion, age, gender, education, socioeconomic class, etc.
+
 
 
 {% include links.md %}
