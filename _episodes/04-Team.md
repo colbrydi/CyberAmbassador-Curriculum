@@ -13,8 +13,8 @@ objectives:
 keypoints:
 - "Main points of working on teams."
 ---
-##First Contact
-#Communicating with Purpose in New Situations
+## First Contact
+# Communicating with Purpose in New Situations
 
 #What is First Contact?
 - Communication with a purpose
