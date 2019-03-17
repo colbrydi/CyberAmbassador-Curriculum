@@ -13,10 +13,11 @@ objectives:
 keypoints:
 - "Main points of working on teams."
 ---
+
 ## First Contact
 # Communicating with Purpose in New Situations
 
-#What is First Contact?
+# What is First Contact?
 - Communication with a purpose
   - What can I learn?
   - What can I contribute?
@@ -26,6 +27,8 @@ keypoints:
   - New Ideas
   - New Resources
   - New Contexts
+
+![First Contact Model](//nguyentj.github.io/CyberAmbassadors-CMS/fig/first_contact.PNG)
 
 
 ## Classic Team Model
