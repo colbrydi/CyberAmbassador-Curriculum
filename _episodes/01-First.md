@@ -30,11 +30,36 @@ keypoints:
 
 ![First Contact Model](//nguyentj.github.io/CyberAmbassadors-CMS/fig/first_contact.PNG)
 
+# Why is First Contact Important?
+- Building relationships can benefit you
+  - What can I lean?
+  - What opportunities are available? (70% of job openings are filled  by networking)
+- Building relationships can benefit others
+  - What can I contribute?
+  - What do I know, that is of value to others?
 
-## Classic Team Model
+## First Contact: Teams
+
+# Tuckman's Team Model
 Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384-399.[http://dx.doi.org/10.1037/h0022100](http://dx.doi.org/10.1037/h0022100)
 
 ![Classic Team Model](//nguyentj.github.io/CyberAmbassadors-CMS/fig/team_work.png)
+
+# Conflict vs. Effectiveness
+![Conflict Graph](//nguyentj.github.io/CyberAmbassadors-CMS/fig/Conflict.PNG)
+
+# Ice Breakers
+- Help facilitate first contact in teams.
+- Can help get groups bast the “forming” stage
+- Should only be included with a purpose
+
+## Exercise - Three Things
+Write three statements about yourself
+- Two should be true
+- One should be false but possible
+- All should say something about you
+These will be shared
+- Do not embarass yourself of anyone else!
 
 
 {% include links.md %}
