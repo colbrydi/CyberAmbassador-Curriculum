@@ -6,7 +6,7 @@ questions:
 - "What is First Contact?"
 - "How does one interact in a team?"
 objectives:
-- "Recognize the parameters of “First Contact”"
+- "Recognize the parameters of "First Contact""
 - "Describe the challenge of balancing independence and involvement"
 - "Model effective communication skills for First Contact"
 - "Explain the role and value of stories during First Contact"
