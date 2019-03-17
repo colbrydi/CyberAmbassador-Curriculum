@@ -124,7 +124,20 @@ The connection plot: when you are telling a story about bringing a team together
 - Original: “Our toy company merged with another toy company and people were duplicating each others’ efforts.”
 - Upgrade: “After our toy company merged with a competitor, I convinced the teams to combine designs and work together. We created a doll that dominated the collectible doll market that Christmas.”
 
+# Developing Your "Elevator Pitch"
+Where: in what types of situations might you tell your story?
+What: what are your key messages? What is most important to share?
+How: practice! Aim for a natural delivery, without sounding over rehearsed.
+Time: one minute or less! Your polished story should be short and memorable.
 
+#Additional Resources and Exercises
+- Creating a life story “timeline”
+https://blogs.psychcentral.com/relationships/2012/04/the-power-of-creating-a-timeline-of-your-lifes-story/
+
+- The Seven Stories Exercise
+https://getfive.com/blog/exercises-to-identify-the-job-of-your-dreams-start-with-the-seven-stories-exercise/
+
+## First Contact: Consulting
 
 
 
