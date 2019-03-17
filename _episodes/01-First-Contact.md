@@ -1,8 +1,8 @@
 ---
 title: First Contact
-teaching: 80
-exercises: 50
 start: True
+teaching: 10
+exercises: 10
 questions:
 - "What is First Contact?"
 - "How does one interact in a team?"
