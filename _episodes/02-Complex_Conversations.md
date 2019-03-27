@@ -42,3 +42,5 @@ keypoints:
 - But be cautious!
   - Analogies have inherent limits, and will eventually break down
   - Analogies can cause confusion if they are not understood – beware the cultural reference!
+
+# Tool: Check for Understanding
