@@ -1,3 +1,4 @@
+---
 title: "Mastering Complex Conversations"
 teaching: 10
 exercises: 10
@@ -8,7 +9,6 @@ objectives:
 keypoints:
 - "Complex Conversations"
 ---
-
 ## What is "Jargon?"
 - According to Google: "Special words or expressions that are used by a particular profession or group and are difficult for others to understand."
 - Common sources of jargon
@@ -31,7 +31,9 @@ keypoints:
   - Eliminate when the jargon is secondary to the problem at hand
 
 ## What is an analogy?
-- According to Google: "A comparison between two things, typically for the purpose of clarification or explanation.""
+- According to Google: "A comparison between two things, typically for the purpose of clarification or explanation."
+
+![Jargon](//nguyentj.github.io/CyberAmbassadors-CMS/fig/Analogy.PNG)
 
 # Tool: Using Good Analogies
 - A good analogy
