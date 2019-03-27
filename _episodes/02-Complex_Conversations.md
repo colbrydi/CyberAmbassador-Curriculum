@@ -22,7 +22,7 @@ keypoints:
 
 # Tool: Reducing Jargon
 
--Before you speak, think about what might be considered jargon?
+- Before you speak, think about what might be considered jargon?
   - What is the disciplinary background of the audience?
   - What is the cultural/language background of the audience?
   - What is the level of expertise in the audience?
