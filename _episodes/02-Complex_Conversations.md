@@ -10,7 +10,7 @@ keypoints:
 ---
 
 ## What is "Jargon?"
-- According to Google: "Special words or expressions that are used by a particular profession or group and are difficult for others to understand.”
+- According to Google: "Special words or expressions that are used by a particular profession or group and are difficult for others to understand."
 - Common sources of jargon
   - Discipline-specific terms
   - Words with multiple meanings
@@ -29,3 +29,14 @@ keypoints:
 - Choose whether to explain or eliminate the jargon
   - Explain when understanding the jargon is essential to solving the problem
   - Eliminate when the jargon is secondary to the problem at hand
+
+## What is an analogy?
+- According to Google: "A comparison between two things, typically for the purpose of clarification or explanation.""
+
+# Tool: Using Good Analogies
+- A good analogy
+  - Fits the context
+  - Increases understanding
+- But be cautious!
+  - Analogies have inherent limits, and will eventually break down
+  - Analogies can cause confusion if they are not understood – beware the cultural reference!
