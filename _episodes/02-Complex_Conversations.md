@@ -80,3 +80,88 @@ Jamie is a CI Facilitator who works for the university’s supercomputing center
   - **The CI Facilitator**: has the role of speaker and initiates the conversation. The CI Facilitator’s  goal is to use the speaker’s tools to successfully communicate the problem described in the scenario.
   - **The Actor**: has the role of listener and responds to the CI Facilitator, following the guidelines given in the scenario. Have fun acting and trying to make the CI Facilitator  use the speaker’s tools appropriately before you “give in” and the scenario ends.
   - **The Coach**: has the role of observing the interactions between the CI Facilitator (speaker) and Actor (listener) and providing feedback to both participants. Coaches are free to look at all three role cards for the scenario, and are encouraged to “pause” the scenario and offer advice to keep things on track.
+
+## LEADING COMPLEX CONVERSATIONS
+
+**Speaker**
+- ROLE: initiates the conversation
+- GOAL: communicate the problem
+- TOOLS:
+  - Reducing Jargon
+  - Using Good Analogies
+  - Checking for Understanding
+
+**Listener**
+- ROLE: listens to the speaker
+- GOAL: understand the problem
+- TOOLS:
+  - Reflective / Active Listening
+  - Paraphrasing
+  - Asking Clarifying Questions
+
+## Tools For the Listener
+
+**As CI Facilitators, when we are in the listener role our goal is to understand the problem so that we can help find solutions**
+  - Use Active / Reflective Listening to make sure the speaker feels heard; this is particularly helpful in situations with strong emotion
+  - Use Paraphrasing to make sure that you (the listener) truly understand the situation
+  - Use Clarifying Questions to obtain additional information you need to help solve the problem
+
+# Tool: Reflective Listening
+- Listen with the goal of truly understanding the speaker
+  - Pay attention to both words and body language
+  - Watch for strong emotions (anger, frustration, worry)
+- Reflect back to the speaker what you heard, using “I” statements
+  - Correct: “What I understood was…”
+  - Incorrect: “You said…”
+- If strong emotions are expressed, acknowledge without judgement
+  - Correct: “That sounds really frustrating…”
+  - Incorrect: “Calm down! You’re blowing this completely out of proportion…”
+
+# Tool: Paraphrasing
+- Use paraphrasing when you are trying to understand a complex problem
+  1. Listen to the speaker carefully
+  2. In your own words, state the parts of the situation you understand (avoid adding jargon!)
+  3. Allow the speaker to confirm, or to clarify, your understanding
+- Paraphrasing is NOT the same as parroting
+  - To use an analogy: paraphrasing is a lens,
+while parroting is a mirror
+
+# Tool: Ask Clarifying Questions
+- As the listener, your goal is to understand in order to help solve problems
+- Use clarifying questions to obtain additional information you need to help
+   - “What programming language does your software use?”
+   - “Can you tell me a bit more about the team that designed the part?”
+   - “Have you ever used this approach before?”
+
+#Listener Example: Frustrated Intern
+**The Context**
+Dana is a PI who stopped by HPC office hours.  Researcher-facing CI-Professional Kim is there, and listens as Dana says:
+
+“I am SO frustrated! I have a lot of data I need to process using the Sanborn-Stratta method, which is better than the more common FCFD approach. However, my transient error is much larger than the latent error.  I think I can reduce the transient error by increasing the Tallholm threshold, but then the software will not run on my computer.  So, I need you to make it run on the supercomputer!”
+
+**How should Kim respond?**
+
+## Breakout Activity: The “Listener”
+- It’s time to practice the “Listener” role, using the tools you’ve learned
+  - Active / Reflective Listening
+  - Paraphrasing
+  - Asking Clarifying Questions
+For this activity, you will work in groups and rotate through three roles:
+  - **The CI Facilitator**: has the role of listener and responds to the Actor. The CI Facilitator’s  goal is to use the listener’s tools to successfully understand the problem.
+
+  - **The Actor**: has the role of speaker and initiates the conversation. The Actor’s goal is to communicate the problem, following the guidelines you’re given in the scenario. Have fun acting and trying to make the CI Facilitator  use the listener’s tools appropriately before you “give in” and the scenario ends.
+
+  - **The Coach**: has the role of observing the interactions between the CI Facilitator (listener) and Actor (speaker) and providing feedback to both participants. Coachers are free to look at all three role cards for the scenario, and are encouraged to “pause” the scenario and offer advice to keep things on track.
+
+# Breakout Session
+- Break out into groups of 3 (if necessary, groups of 4 can have 2 coaches)
+- Pick roles for the first example (CI Facilitator, Actor and Coach)
+- Read YOUR ROLE (note that Coaches may want to read all three roles for context)
+  - Go to: https://tinyurl.com/ACIpractice
+  - Choose the Second Breakout link, then the first example, then your role
+- Do the rehearsal exercises
+  1. The CI-Professional (speaker) starts the scenario, and the Actor responds
+  2. The Coach provides advice as needed, and offers feedback at the end
+  3. Afterwards, rotate roles and try the next scenario
+  4. There are three (3) practice scenarios; try to rotate roles at least once, but given our limited time today it may not be possible to get through all 3 scenarios
+- Come back here for a large group discussion at the end of the breakout session
