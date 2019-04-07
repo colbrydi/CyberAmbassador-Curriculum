@@ -57,3 +57,14 @@ Nan is a graduate student using a software program to analyze experimental data;
 
 **The Speaker**
 Jamie is a CI Facilitator who works for the university’s supercomputing center. After a quick code review, Jaime can see that Nan’s program can easily be reworked to run in parallel, which will allows multiple inputs to be processed at the same time on the supercomputer and significantly speed up the overall project.
+
+# Jamie’s First Attempt
+**Jamie says**:  “I’ve looked though your code and I think you can make it go faster. Your problem is Embarrassingly Parallel. You just need to write a submission script to distribute your program across many nodes. Here is a website to help you get started. That makes sense? Right?”
+  - Did Jamie use any Jargon?
+  - How well do you think Nan now understands the problem?
+  - What response will Nan likely have to this explanation?
+
+# Jamie’s Second Attempt
+**Jamie**: “I’ve looked though your code and I think we can make it go faster by running it in parallel.  Do you know what that means?”
+**Nan**: “No”
+**Jamie**: “This is a type of problem I consider to be pleasantly parallel.  Imagine that each of your inputs needs to make a road trip across the USA. You want them to get to the destination as fast as possible, but you don’t care what order they arrive or whether they take the same roads to get there. Running in parallel is like having many different cars and roads so more of your inputs can go at the same time. We need to write a program to tell the system how to run your inputs on many different computers. What do you think about this plan?"
