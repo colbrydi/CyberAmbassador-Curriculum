@@ -44,3 +44,16 @@ keypoints:
   - Analogies can cause confusion if they are not understood – beware the cultural reference!
 
 # Tool: Check for Understanding
+-As the speaker, your goal is to be understood
+-Check for understanding by asking questions that encourage the listener to respond
+  -Example: “Whew! I just threw out a lot of information. Would you mind sharing what you think is going on so I can see if my explanation made sense?”
+  -Example: “So, what questions do you have about the situation I just described?”
+-Avoid yes/no questions (“Do you understand?”)
+![Jargon](//nguyentj.github.io/CyberAmbassadors-CMS/fig/understand.PNG)
+
+# Speaker Example: Embarrassingly Parallel
+**The Context**
+Nan is a graduate student using a software program to analyze experimental data; the program takes approximately 10 minutes per input, but produces the correct results. Nan has a new data set with 10,000 inputs and wants to figure out how to speed things up by running on the university’s supercomputer, but Nan doesn’t have a lot of programming experience and has never used the supercomputing center before.
+
+**The Speaker**
+Jamie is a CI Facilitator who works for the university’s supercomputing center. After a quick code review, Jaime can see that Nan’s program can easily be reworked to run in parallel, which will allows multiple inputs to be processed at the same time on the supercomputer and significantly speed up the overall project.
