@@ -12,14 +12,14 @@ keypoints:
 ## Agenda
 
 - (10 min) Key Components for Effective Meetings
-  - Agendas
-  - Participants and Roles
-  - Ending Meetings
 - (20 min) Keeping meeting on task
 - (10 min) Breakout Activity
 - (10 min) Debrief and Feedback
 
 ## Key Components for Effective Meetings
+- Agendas
+- Participants and Roles
+- Ending Meetings
 
 ### Developing Effective Agendas
 **Before the meeting***
@@ -37,3 +37,69 @@ keypoints:
 
 ![agenda](//nguyentj.github.io/CyberAmbassadors-CMS/fig/agenda.PNG)
 J. Tropman (2003) “Managing Agenda Design: The Rule of the Agenda Bell” in Making Meetings Work: Achieving High Quality Group Decisions.
+
+### Meeting Participants and Roles
+**Who should attend?**
+- People who have information
+- People who need information
+- People who make decisions
+- People who are impacted by decisions
+
+**Key roles for effective meetings**
+- Facilitator
+- Notetaker
+- Timekeeper
+
+### Facilitator
+**Start by reviewing the agenda and asking if there are any changes**
+
+- Allows the facilitator to gather new information
+- Encourages participants to "buy in" to the agenda
+
+**Move through the agenda items**
+
+- Assign timekeeper and note taker (rotate the assignments)
+- Encourage discussion and input
+- Keep the meeting on track
+
+### Notetaker
+- Record attendance
+- Summarize discussions
+- Record key information
+- Record decisions
+  - What was decided
+  - Implementation plans (next actions)
+  - Responsible parties
+  - Deadlines / timelines
+- Use the agenda as a guideline
+- Submit notes promptly after meeting
+
+### Timekeeper
+- Watch the clock
+- Notify the facilitator when items run over time
+
+### Ending Meetings Effectively
+- When possible, end on a positive
+  - Fun / creative activity
+  - Brainstorming
+  - “Shout outs”
+- Review all decisions and action items
+  - Who is responsible?
+  - What needs to be done?
+  - What is the deadline or timeline?
+
+## Keeping meetings on task
+- Unrelated Distractions (Squirrels)
+- Related Distractions (Acorns)
+- Emotional Distractions
+
+### Squirrel!
+**What do you do when a meeting gets off track because participants are discussing something unrelated to the meeting goals?**
+1. Acknowledge that we are off track
+2. Guide participants back to the agenda
+
+**Keys to Handling Squirrels Effectively**
+- Be subtle
+- Be kind
+- Focus on the goal, not the distraction
+![squirrel](//nguyentj.github.io/CyberAmbassadors-CMS/fig/squirrel.PNG)
