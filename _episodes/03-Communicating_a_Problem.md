@@ -14,3 +14,5 @@ keypoints:
 1. Definitions
 2. Psychology
 3. Tools for Communicating about problems
+
+### How do we define a problem?
