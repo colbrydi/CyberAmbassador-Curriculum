@@ -16,4 +16,5 @@ keypoints:
 3. Tools for Communicating about problems
 
 ### How do we define a problem?
-![Problem](//nguyentj.github.io/CyberAmbassadors-CMS/fig/problem.PNG)
+
+![Problem](//nguyentj.github.io/CyberAmbassadors-CMS/fig/probem.PNG)
