@@ -104,3 +104,20 @@ J. Tropman (2003) “Managing Agenda Design: The Rule of the Agenda Bell” in M
 - Be kind
 - Focus on the goal, not the distraction
 ![squirrel](//nguyentj.github.io/CyberAmbassadors-CMS/fig/squirrel.PNG)
+
+### Squirrel Example
+You are in a research meeting and the agenda item is about the presentations your group will make at an upcoming conference.  Some meeting participants feel strongly that all of the group’s presentations should use the same slide designs and structure so that it’s easy for audience members to see the connections between your group’s presentations.  Other participants think that using different designs gives more flexibility to explain the different projects in the formats that are most appropriate to the individual topics.  Somehow, the meeting gets off track when Chris starts talking about a seven day bike trip in the mountains.
+
+**What do you say to get the meeting back on track?**
+
+### Acorn?!
+**What do you do when a meeting gets off track, but the discussion IS related to the meeting goals?**
+1. Acknowledge that we have identified a new item
+2. Decide what to do with this new item
+  - If you want to talk about it now, then adjust the agenda
+  - If you want to talk about it later, pick a time and place
+**Keys to Handling Acorns Effectively**
+- Pause the discussion
+- Acknowledge the new item
+- Facilitate a decision about how to handle it
+![acorn](//nguyentj.github.io/CyberAmbassadors-CMS/fig/acorn.PNG)
