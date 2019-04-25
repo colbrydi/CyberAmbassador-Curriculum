@@ -1,3 +1,4 @@
+---
 title: "Effective Meetings"
 teaching: 40
 exercises: 10
