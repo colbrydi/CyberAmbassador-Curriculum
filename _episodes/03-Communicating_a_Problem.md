@@ -28,4 +28,5 @@ keypoints:
   - "You can't make me do that!"
 
 ### How do we define a successful solution?
+
 ![Solution](//nguyentj.github.io/CyberAmbassadors-CMS/fig/solution.PNG)
