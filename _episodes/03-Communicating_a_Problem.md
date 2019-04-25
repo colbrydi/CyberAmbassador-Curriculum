@@ -38,14 +38,21 @@ keypoints:
 
 ### Communication Style is Important
 We form unconscious opinions about people based on their communication styles.
+
 - Accent
 - Culture
 - Pitch of voice
 - Speed and pacing
 - Pausing to allow others to speak
+
 We tend to like people with communication styles similar to our own.
 
 “Many of our motives, so obvious to us,
 are never perceived by the people we talk to.
 Many instances of rudeness, stubbornness, inconsiderateness, or refusal to cooperate are really caused by differences in conversational style.”
+
 ~ Deborah Tannen
+
+## Tools for Communication about Problems
+### Effective communication requires **shared context***
+![Context](//nguyentj.github.io/CyberAmbassadors-CMS/fig/context.PNG)
