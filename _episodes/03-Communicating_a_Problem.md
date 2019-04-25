@@ -85,3 +85,28 @@ Many instances of rudeness, stubbornness, inconsiderateness, or refusal to coope
 
 ### What are interpersonal problems?
 ![interpersonal](//nguyentj.github.io/CyberAmbassadors-CMS/fig/interpersonal.PNG)
+
+## Mirroring Activity
+- Form two lines and face each other
+- Designate one line the leaders; the other line follows
+- Mirroring everything from the waist up
+- Switch roles of lines
+- Have one line rotate
+
+### Why is mirroring valuable?
+- An effort to match communication styles with your partner
+- Body language mirroring can build trust and put people to ease
+- Psychological impact: mirroring is an unconscious form of agreement
+
+## Back to psychology...
+The Demand/Withdraw Dance
+
+### Sometimes you just have different opinions
+- Diverse opinions are good
+- Acknowledge others' points of view and motivations, even if they differ from yours
+- Good leaders make it safe to voice and opinion
+
+### When you Disagree, remember your ABCs
+**Agree.** Start by finding the points where you agree.
+**Build.** Use the points of agreement as a foundation to build the relationship.
+**Compare.** Work together to examine the areas of disagreement and compare both perspectives. You may not always find solutions, but you will gain understanding and build relationships.
