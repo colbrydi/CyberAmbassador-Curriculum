@@ -71,3 +71,17 @@ Many instances of rudeness, stubbornness, inconsiderateness, or refusal to coope
 
 ### Effective communication requires **shared motivation**
 ![motivation](//nguyentj.github.io/CyberAmbassadors-CMS/fig/motivation.PNG)
+
+### Motivational problems
+- "I don't want to do this"
+  - Inconvenient
+  - Undesirable
+  - Difficult
+  - Boring
+- Communicate consequences
+  - Natural consequences (Impersonal ----------> Personal)
+  - Imposed consequences
+  - Follow up
+
+### What are interpersonal problems?
+![interpersonal](//nguyentj.github.io/CyberAmbassadors-CMS/fig/interpersonal.PNG)
