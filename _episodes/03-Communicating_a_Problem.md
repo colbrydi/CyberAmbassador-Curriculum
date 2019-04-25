@@ -15,6 +15,7 @@ keypoints:
 2. Psychology
 3. Tools for Communicating about problems
 
+## Definitions
 ### How do we define a problem?
 
 ![Problem](//nguyentj.github.io/CyberAmbassadors-CMS/fig/probem.PNG)
@@ -30,3 +31,7 @@ keypoints:
 ### How do we define a successful solution?
 
 ![Solution](//nguyentj.github.io/CyberAmbassadors-CMS/fig/solution.PNG)
+
+## Psychology
+### So why is effective communication hard?!
+![Effective Communication](//nguyentj.github.io/CyberAmbassadors-CMS/fig/effective_communication.PNG)
