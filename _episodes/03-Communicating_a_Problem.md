@@ -70,4 +70,4 @@ Many instances of rudeness, stubbornness, inconsiderateness, or refusal to coope
   - Work collaboratively to identify a solution
 
 ### Effective communication requires **shared motivation**
-![motivation](//nguyentj.github.io/CyberAmbassadors-CMS/fig/movitation.PNG)
+![motivation](//nguyentj.github.io/CyberAmbassadors-CMS/fig/motivation.PNG)
