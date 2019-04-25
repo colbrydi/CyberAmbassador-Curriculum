@@ -54,5 +54,20 @@ Many instances of rudeness, stubbornness, inconsiderateness, or refusal to coope
 ~ Deborah Tannen
 
 ## Tools for Communication about Problems
-### Effective communication requires **shared context***
+### Effective communication requires **shared context**
 ![Context](//nguyentj.github.io/CyberAmbassadors-CMS/fig/context.PNG)
+
+### Ability problems
+- "I can't do this"
+  - Lack of resources
+  - Lack of knowledge
+  - Lack of skills
+  - Lack of experience
+- Avoid misdiagnosis
+  - Do not assume you understand the source of the problem
+  - Ask for ideas
+  - Listen carefully - is this truly an ability problem?
+  - Work collaboratively to identify a solution
+
+### Effective communication requires **shared motivation**
+![motivation](//nguyentj.github.io/CyberAmbassadors-CMS/fig/movitation.PNG)
