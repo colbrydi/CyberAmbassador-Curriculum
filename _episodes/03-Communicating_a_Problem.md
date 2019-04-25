@@ -159,6 +159,7 @@ Dear Dr. Horton,
 I really like your class, however, I am having trouble understanding your accent.  Would it be possible to go to Dr. Aderal’s section instead
 
 Thank you,
+
 Reese
 
 ### Email Example - Student Mentee
