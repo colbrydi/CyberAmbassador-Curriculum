@@ -18,3 +18,11 @@ keypoints:
 ### How do we define a problem?
 
 ![Problem](//nguyentj.github.io/CyberAmbassadors-CMS/fig/probem.PNG)
+
+### Types of problems
+- Ability
+  - "I can't do that."
+- Motivational
+  - "I don't want to do that."
+- Interpersonal
+  - "You can't make me do that!"
