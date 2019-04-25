@@ -138,3 +138,32 @@ Dear Blake,
 Your jobs are going over resource limits and causing the nodes to go down. You need to stop running them immediately or we will disable your account.
 
 -HPC Team
+
+### Email Example - Expectations
+Dear Dr. Xio,
+
+From now on please come to me with all questions and comments instead of the HPC staff.  I realize that there is a problem on the system which is impacting your jobs but my staff is trying their best to fix the problem and your constant interruption are distracting them and making fixing the problem take longer.  
+
+-Tory
+
+### Email Example - Sandwiching
+Dear Alexis,
+
+I really like the energy you are bringing to the lab. However, I have noticed that you have stopped writing weekly reports. We really need them.  You have also created a wonderful workspace.  Keep up the good work.
+
+-Sage
+
+### Email Example - Need help in class
+Dear Dr. Horton,
+
+I really like your class, however, I am having trouble understanding your accent.  Would it be possible to go to Dr. Aderal’s section instead
+
+Thank you,
+Reese
+
+### Email Example - Student Mentee
+Dear Harley,
+
+You are not spending enough time in the lab and therefore not getting enough work done.  I need you to either put in the time that is needed or you need to let me know so I can hire a different student to take your place.
+
+-Dr. Slatemore
