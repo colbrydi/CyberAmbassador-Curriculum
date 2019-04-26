@@ -22,6 +22,7 @@ keypoints:
   - Recognize and develop strengths
   - Identify and address weaknesses
   - Support ongoing professional development
+
 From: [https://www.linkedin.com/pulse/20130821093435-117825785-don-t-write-off-the-coaching-leadership-style/](https://www.linkedin.com/pulse/20130821093435-117825785-don-t-write-off-the-coaching-leadership-style/)
 
 ### Transformational Leadership
@@ -34,4 +35,5 @@ From: [https://www.linkedin.com/pulse/20130821093435-117825785-don-t-write-off-t
   - Empowering others to identify and build on their strengths
   - Serving as a role model for hard work and success
   - Challenge followers to take ownership of their work
-From: From: [http://www.langston.edu/sites/default/files/basic-content-files/TransformationalLeadership.pdf](http://www.langston.edu/sites/default/files/basic-content-files/TransformationalLeadership.pdf)
+  
+From: [http://www.langston.edu/sites/default/files/basic-content-files/TransformationalLeadership.pdf](http://www.langston.edu/sites/default/files/basic-content-files/TransformationalLeadership.pdf)
