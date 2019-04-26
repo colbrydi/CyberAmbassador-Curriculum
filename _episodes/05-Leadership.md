@@ -51,3 +51,23 @@ From: [http://www.langston.edu/sites/default/files/basic-content-files/Transform
   - Providing direction and stewardship to meet shared goals
 
 From: [http://toservefirst.com/definition-of-servant-leadership.html](http://toservefirst.com/definition-of-servant-leadership.html)
+
+## Goals of the STEM Leader
+- Develop Plans and Provide Direction
+- Cultivate Effective Teamwork
+- Pay Attention to the Details
+- Maintain Technical Fluency
+
+From: [http://www.daviscos.com/4-types-engineering-leaders-type/](http://www.daviscos.com/4-types-engineering-leaders-type/)
+
+### Types of STEM Leaders
+- Envisioners
+  - Push boundaries, change the status quo
+- Analyzers
+  - Evaluate data, develop problem solutions
+- Feelers
+  - Foster inclusive environments, build relationships
+- Doers
+  - Hands on approach, working alongside team members
+
+From: [http://www.daviscos.com/4-types-engineering-leaders-type/](http://www.daviscos.com/4-types-engineering-leaders-type/)
