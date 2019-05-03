@@ -28,7 +28,7 @@ keypoints:
   - New Resources
   - New Contexts
 
-![First Contact Model](//nguyentj.github.io/CyberAmbassadors-CMS/fig/first_contact.PNG)
+![First Contact Model](../fig/first_contact.PNG)
 
 # Why is First Contact Important?
 - Building relationships can benefit you
