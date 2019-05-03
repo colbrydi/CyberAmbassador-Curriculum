@@ -9,11 +9,11 @@
 # cp: Carpentries (to use for instructor traning for instance)
 
 # Overall title for pages.
-title: "CyberAmbassadors Content"
+title: "CyberAmbassadors Curriculum"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
-life_cycle: "stable"
+life_cycle: "beta"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -28,7 +28,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "nguyentj@msu.edu"
+email: "colbrydi@msu.edu"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
